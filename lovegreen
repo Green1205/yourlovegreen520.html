@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title></title>
+   <style>
+      body {
+        margin:100px;
+      }
+       #active{
+         color:red;
+       }
+       .saw {
+       color:gray;
+     }
+     h1 {
+       font-size:45px;
+       text-align:center;
+       border-bottom:1px solid gray;
+     }
+   </style>
+ </head>
+   <body>
+     <h1>내가 생각하는 유지니는?</h1>
+     <input type="button" value="눌러봐" onclick="alert('바부(\\>_</)')">
+    <script>
+    /* <script>태그로 자바스크립트 라느걸 알려줌.*/
+      document.write("헤헤헤헤헤헤헤헿사룽해");
+    </script>
+   </body>
+</html>
+
+
+---------------------------------
+<script>태그로 자바스크립트 라느걸 알려줌.
